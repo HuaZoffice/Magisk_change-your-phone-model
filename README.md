@@ -9,4 +9,4 @@ magisk改机型模块
 ## 捐赠
 如果你喜欢这个项目的话，请给我捐赠，谢谢。
 If you like this project, please donate to me, thanks.
-![](image/logo.jpg)
+![](image/juanzeng.png)
