@@ -8,7 +8,7 @@
 ## 教程（中文）
 - 刷入magisk后，直接刷入此模块即可修改机型为你想要的机型。
 - 中国国内的定制ui刷入此模块后可能会出现一些小问题，注意，这不是模块bug！
-## The tutorial（English）
+## Introduction（English）
 - After you swipe into Magisk, you can directly swipe into this module to change the model to the one you want.
 - There may be some minor issues when the Chinese custom UI is swiped. note that this is not a module bug!（The translation is from Youdao Dictionary）
 ## 诚通网盘
