@@ -1,9 +1,10 @@
 ![](image/logo.jpg)
 
 # Magisk_change-your-phone-model-改机型模块
-- *Change your phone model.*
+- [![](https://img.shields.io/badge/HuaZoffice-MyCoolapk-green)](http://www.coolapk.com/u/3752133)
 - **magisk改机型模块**
-[![](https://img.shields.io/badge/HuaZoffice-MyCoolapk-green)](http://www.coolapk.com/u/3752133)自觉投币点赞关注
+- *Change your phone model.*
+- ***自觉在酷安中投币点赞关注***
 ## 教程（中文）
 - 刷入magisk后，直接刷入此模块即可修改机型为你想要的机型。
 - 中国国内的定制ui刷入此模块后可能会出现一些小问题，注意，这不是模块bug！
