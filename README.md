@@ -1,7 +1,7 @@
 ![](image/logo.jpg)
 
 # Magisk_change-your-phone-model-改机型模块
-- [![](https://img.shields.io/badge/HuaZoffice-MyCoolapk-green)](http://www.coolapk.com/u/3752133)
+[![](https://img.shields.io/badge/HuaZoffice-MyCoolapk-green)](http://www.coolapk.com/u/3752133)
 - **magisk改机型模块**
 - *Change your phone model.*
 - ***自觉在酷安中投币点赞关注***
