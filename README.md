@@ -1,6 +1,6 @@
 ![](image/logo.jpg)
 
-模块在仓库里！
+##模块在仓库里！
 # Magisk_change-your-phone-model-改机型模块
 [![](https://img.shields.io/badge/HuaZoffice-MyCoolapk-green)](http://www.coolapk.com/u/3752133)
 - **magisk改机型模块**
